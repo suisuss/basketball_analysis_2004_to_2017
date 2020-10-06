@@ -37,7 +37,7 @@ How does a players age, height and weight correlate with their performance? Do p
 #### Sean
 	
 **Question:**
-Where do players come from? And how is their location correlated with their performance?
+How many players are international? What is the trend for international players? Which cities pay high salaries?
 
 **Analysis & Visualization Techniques:**
 
