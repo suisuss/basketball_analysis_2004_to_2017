@@ -45,8 +45,8 @@ Where do players come from? And how is their location correlated with their perf
     - a) From U.S, by states
     - b) overseas.
     -Pie chart to show these proportions
-- Scatter plot with trendline, height distribution
-- gmaps heatmap
+    -Line chart to show the trend throughout 10 yrs
+- gmaps heatmap with salary
 
 
 #### Resources:
