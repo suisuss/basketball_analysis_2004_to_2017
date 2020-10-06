@@ -1,0 +1,976 @@
+,name,height,weight,collage,born,birth_city,birth_state
+0,Al Harrington,206,104,,1980,Orange,New Jersey
+1,J.R. Henderson,206,104,,1980,,
+2,Bruno Sundov,218,99,,1980,Split,Croatia
+3,Jonathan Bender,211,91,,1981,Picayune,Mississippi
+4,Dalibor Bagaric,216,115,,1980,Croatia,
+5,Jamal Crawford,196,90,University of Michigan,1980,Seattle,Washington
+6,Keyon Dooling,190,88,University of Missouri,1980,Ft. Lauderdale,Florida
+7,Donnell Harvey,203,99,University of Florida,1980,Shellman,Georgia
+8,Darius Miles,206,95,,1981,Belleville,Illinois
+9,Mike Miller,203,98,University of Florida,1980,Mitchell,South Dakota
+10,Olumide Oyedeji,208,108,,1981,Ibadan,Nigeria
+11,Quentin Richardson,198,101,DePaul University,1980,Chicago,Illinois
+12,DeShawn Stevenson,196,95,,1981,Fresno,California
+13,Gilbert Arenas,190,86,University of Arizona,1982,Los Angeles,California
+14,Brandon Armstrong,196,85,Pepperdine University,1980,San Francisco,California
+15,Jamison Brewer,193,83,Auburn University,1980,East Point,Georgia
+16,Kedrick Brown,201,100,Okaloosa-Walton Community College,1981,Zachary,Louisiana
+17,Kwame Brown,211,122,,1982,Charleston,South Carolina
+18,Tyson Chandler,216,108,,1982,Hanford,California
+19,Eddy Curry,213,133,,1982,Harvey,Illinois
+20,Samuel Dalembert,211,115,Seton Hall University,1981,Port-Au-Prince,Haiti
+21,DeSagana Diop,213,136,,1982,Dakar,Senegal
+22,Joseph Forte,193,87,University of North Carolina,1981,Atlanta,Georgia
+23,Antonis Fotsis,208,99,,1981,Athens,Greece
+24,Pau Gasol,213,113,,1980,Barcelona,Spain
+25,Eddie Griffin,208,99,Seton Hall University,1982,Philadelphia,Pennsylvania
+26,Steven Hunter,213,99,DePaul University,1981,Chicago,Illinois
+27,Richard Jefferson,201,105,University of Arizona,1980,Los Angeles,California
+28,Andrei Kirilenko,206,99,,1981,Izhevsk,Russia
+29,Troy Murphy,211,111,University of Notre Dame,1980,Morristown,New Jersey
+30,Tony Parker,188,83,,1982,Bruges,Belgium
+31,Vladimir Radmanovic,208,102,,1980,Trebinje Srpska-Bih,Bosnia and Herzegovina
+32,Zach Randolph,206,117,Michigan State University,1981,Marion,Indiana
+33,Jason Richardson,198,99,Michigan State University,1981,Saginaw,Michigan
+34,Kenny Satterfield,188,84,University of Cincinnati,1981,New York,New York
+35,Bobby Simmons,201,95,DePaul University,1980,Chicago,Illinois
+36,Leon Smith,208,106,,1980,Chicago,Illinois
+37,Gerald Wallace,201,97,University of Alabama,1982,Sylacauga,Alabama
+38,Robert Archibald,211,113,University of Illinois at Urbana-Champaign,1980,Paisley,United Kingdom
+39,Carlos Boozer,206,117,Duke University,1981,Aschaffenburg,Germany
+40,J.R. Bremer,206,117,,1981,,
+41,Caron Butler,201,103,University of Connecticut,1980,Racine,Wisconsin
+42,Reggie Evans,203,111,University of Iowa,1980,Pensacola,Florida
+43,Drew Gooden,208,113,University of Kansas,1981,Oakland,California
+44,Marcus Haislip,208,104,University of Tennessee,1980,Lewisburg,Tennessee
+45,Adam Harrington,196,90,Auburn University,1980,Bernardston,Massachusetts
+46,Junior Harrington,193,81,Wingate University,1980,Wagram,North Carolina
+47,Nene Hilario,211,113,,1982,Sao Carlos,Brazil
+48,Casey Jacobsen,198,97,Stanford University,1981,Glendora,California
+49,Chris Jefferies,203,102,"California State University, Fresno",1980,Fresno,California
+50,Jared Jeffries,211,104,Indiana University,1981,Bloomington,Indiana
+51,Tito Maddox,193,86,"California State University, Fresno",1981,Compton,California
+52,Roger Mason,196,90,University of Virginia,1980,Washington,District of Columbia
+53,Yao Ming*,229,140,,1980,Shanghai,China
+54,Bostjan Nachbar,206,100,,1980,Slovenj Gradec,Slovenia
+55,Smush Parker,193,86,Fordham University,1981,New York,New York
+56,Tayshaun Prince,206,96,University of Kentucky,1980,Compton,California
+57,Kareem Rush,198,97,University of Missouri,1980,Kansas City,Missouri
+58,Jamal Sampson,211,106,University of California,1983,Inglewood,California
+59,Tamar Slay,203,97,Marshall University,1980,Beckley,West Virginia
+60,Amar'e Stoudemire,208,111,,1982,Lake Wales,Florida
+61,Nikoloz Tskitishvili,213,102,,1983,Tbilisi,Georgia
+62,Jiri Welsch,201,94,,1980,Pardubice,Czech Republic
+63,Chris Wilcox,208,100,University of Maryland,1982,Raleigh,North Carolina
+64,Qyntel Woods,203,100,Northeast Mississippi Community College,1981,Memphis,Tennessee
+65,Vincent Yarbrough,201,95,University of Tennessee,1981,Cleveland,Tennessee
+66,Carmelo Anthony,203,108,Syracuse University,1984,New York,New York
+67,Marcus Banks,188,90,"University of Nevada, Las Vegas",1981,Las Vegas,Nevada
+68,Leandro Barbosa,190,87,,1982,San Paulo,Brazil
+69,Jerome Beasley,208,107,University of North Dakota,1980,Compton,California
+70,Troy Bell,185,81,Boston College,1980,Minneapolis,Minnesota
+71,Steve Blake,190,78,University of Maryland,1980,Hollywood,Florida
+72,Keith Bogans,196,97,University of Kentucky,1980,Alexandria,Virginia
+73,Curtis Borchardt,213,108,Stanford University,1980,Buffalo,New York
+74,Chris Bosh,211,106,Georgia Institute of Technology,1984,Dallas,Texas
+75,Zarko Cabarkapa,211,106,,1981,Zrenjanin,Serbia
+76,Matt Carroll,198,96,University of Notre Dame,1980,Pittsburgh,Pennsylvania
+77,Brian Cook,206,106,University of Illinois at Urbana-Champaign,1980,Lincoln,Illinois
+78,Omar Cook,185,86,St. John's University,1982,Brooklyn,New York
+79,Marquis Daniels,198,90,Auburn University,1981,Jasper,Florida
+80,Boris Diaw,203,113,,1982,Cormeille-en-Parisis,France
+81,Ronald Dupree,201,94,Louisiana State University,1981,Biloxi,Mississippi
+82,Ndudi Ebi,206,90,,1984,London,United Kingdom
+83,Hiram Fuller,206,108,"California State University, Fresno",1981,East St. Louis,Missouri
+84,Reece Gaines,198,92,University of Louisville,1981,Madison,Wisconsin
+85,Alex Garcia,190,99,,1980,Orlandia,Brazil
+86,Willie Green,193,90,University of Detroit Mercy,1981,Detroit,Michigan
+87,Udonis Haslem,203,106,University of Florida,1980,Miami,Florida
+88,Jarvis Hayes,201,99,University of Georgia,1981,Atlanta,Georgia
+89,Kirk Hinrich,193,86,University of Kansas,1981,Sioux City,Iowa
+90,Josh Howard,201,95,Wake Forest University,1980,Winston-Salem,North Carolina
+91,Brandon Hunter,201,117,Ohio University,1980,Cincinnati,Ohio
+92,LeBron James,203,113,,1984,Akron,Ohio
+93,Linton Johnson,203,92,Tulane University,1980,Chicago,Illinois
+94,Chris Kaman,213,120,Central Michigan University,1982,Wyoming,Michigan
+95,Jason Kapono,203,96,"University of California, Los Angeles",1981,Long Beach,California
+96,Kyle Korver,201,96,Creighton University,1981,Lakewood,California
+97,Maciej Lampe,211,124,,1985,Lodz,Poland
+98,Raul Lopez,185,77,,1980,Vic,Spain
+99,Darko Milicic,213,113,,1985,Novi Sad,Serbia
+100,Travis Outlaw,206,95,,1984,Starkville,Mississippi
+101,Zaza Pachulia,211,122,,1984,Tbilisi,Georgia
+102,Sasha Pavlovic,211,122,,1984,,
+103,Desmond Penigar,201,111,Utah State University,1981,Upland,California
+104,Kirk Penney,196,99,University of Wisconsin,1980,Auckland,New Zealand
+105,Kendrick Perkins,208,122,,1984,Nederland,Texas
+106,Mickael Pietrus,198,97,,1982,Les Abymes,Guadeloupe
+107,Zoran Planinic,201,88,,1982,Mostar,Bosnia and Herzegovina
+108,Luke Ridnour,188,79,University of Oregon,1981,Coeur d'Alene,Idaho
+109,Theron Smith,203,102,Ball State University,1980,Bartow,Florida
+110,Mike Sweetney,203,124,Georgetown University,1982,Oxon Hill,Maryland
+111,Slavko Vranes,226,124,,1983,Belgrade,Serbia
+112,Dwyane Wade,193,99,Marquette University,1982,Chicago,Illinois
+113,Luke Walton,203,106,University of Arizona,1980,San Diego,California
+114,David West,206,113,Xavier University,1980,Teaneck,New Jersey
+115,Tony Allen,193,96,Oklahoma State University,1982,Chicago,Illinois
+116,Rafael Araujo,211,127,Brigham Young University,1980,Curitiba,Brazil
+117,Trevor Ariza,203,97,"University of California, Los Angeles",1985,Miami,Florida
+118,Andre Barrett,178,78,Seton Hall University,1982,Bronx,New York
+119,Andris Biedrins,211,108,,1986,Riga,Latvia
+120,Matt Bonner,208,106,University of Florida,1980,Concord,New Hampshire
+121,Antonio Burks,185,90,University of Memphis,1980,Memphis,Tennessee
+122,Jackie Butler,208,113,,1985,McComb,Mississippi
+123,Lionel Chalmers,183,81,Xavier University,1980,Albany,New York
+124,Josh Childress,203,95,Stanford University,1983,Harbor City,California
+125,Nick Collison,208,115,University of Kansas,1980,Orange City,Iowa
+126,Erik Daniels,203,97,University of Kentucky,1982,Cincinnati,Ohio
+127,Carlos Delfino,198,104,,1982,Santa Fe,Argentina
+128,Luol Deng,206,99,Duke University,1985,Wow,South Sudan
+129,Chris Duhon,185,83,Duke University,1982,Mamou,Louisiana
+130,John Edwards,213,124,Kent State University,1981,Warren,Ohio
+131,Andre Emmett,196,104,Texas Tech University,1982,Dallas,Texas
+132,Luis Flores,188,90,Manhattan College,1981,San Pedro de Macoris,Dominican Republic
+133,Matt Freije,208,108,Vanderbilt University,1981,Overland Park,Kansas
+134,Ben Gordon,190,90,University of Connecticut,1983,London,United Kingdom
+135,Devin Harris,190,87,University of Wisconsin,1983,Milwaukee,Wisconsin
+136,David Harrison,213,127,University of Colorado,1982,Nashville,Tennessee
+137,Dwight Howard,211,120,,1985,Atlanta,Georgia
+138,Kris Humphries,206,106,University of Minnesota,1985,Minneapolis,Minnesota
+139,Andre Iguodala,198,97,University of Arizona,1984,Springfield,Illinois
+140,Didier Ilunga-Mbenga,198,97,,1984,,
+141,Royal Ivey,190,90,University of Texas at Austin,1981,Harlem,New York
+142,Al Jefferson,208,131,,1985,Monticello,Mississippi
+143,Mario Kasun,216,117,,1980,Split,Croatia
+144,Viktor Khryapa,206,95,,1982,Kiev,Ukraine
+145,Nenad Krstic,213,108,,1983,Kraljevo,Serbia
+146,Shaun Livingston,201,87,,1985,Peoria,Illinois
+147,Jameer Nelson,183,86,Saint Joseph's University,1982,Chester,Pennsylvania
+148,Emeka Okafor,208,114,University of Connecticut,1982,Houston,Texas
+149,Pavel Podkolzin,226,117,,1985,Novosibirsk,Russia
+150,Peter John,226,117,,1985,,
+151,Justin Reed,203,108,University of Mississippi,1982,Jackson,Mississippi
+152,Jared Reiner,211,115,University of Iowa,1982,Tripp,South Dakota
+153,Bernard Robinson,198,95,University of Michigan,1980,Washington,District of Columbia
+154,Quinton Ross,198,88,Southern Methodist University,1981,Dallas,Texas
+155,Ha Seung-Jin,221,138,,1985,Seoul,Republic of Korea
+156,Kirk Snyder,198,102,"University of Nevada, Reno",1983,Los Angeles,California
+157,Pape Sow,208,113,"California State University, Fullerton",1981,Dakar,Senegal
+158,Robert Swift,213,111,,1985,Bakersfield,California
+159,Yuta Tabuse,175,74,Brigham Young University Hawaii,1980,Yokohama,Japan
+160,Sebastian Telfair,183,74,,1985,Brooklyn,New York
+161,Beno Udrih,190,92,,1982,Celje,Slovenia
+162,Anderson Varejao,208,123,,1982,Santa Teresa,Brazil
+163,Jackson Vroman,208,99,Iowa State University,1981,Laguna,California
+164,Sasha Vujacic,201,88,,1984,Maribor,Slovenia
+165,Delonte West,193,81,Saint Joseph's University,1983,Washington,District of Columbia
+166,Dorell Wright,206,92,,1985,Los Angeles,California
+167,Alex Acker,196,83,Pepperdine University,1983,Compton,California
+168,Alan Anderson,198,99,Michigan State University,1982,Minneapolis,Minnesota
+169,Martynas Andriuskevicius,218,108,,1986,Kaunas,Lithuania
+170,Earl Barron,213,113,University of Memphis,1981,Clarksdale,Mississippi
+171,Eddie Basden,196,97,University of North Carolina at Charlotte,1983,New York,New York
+172,Brandon Bass,203,113,Louisiana State University,1985,Baton Rouge,Louisiana
+173,Esteban Batista,208,122,,1983,Montevideo,Uruguay
+174,Andray Blatche,211,106,,1986,Syracuse,New York
+175,Andrew Bogut,213,117,University of Utah,1984,Melbourne,Australia
+176,Andrew Bynum,213,129,,1987,Plainsboro,New Jersey
+177,Will Bynum,183,83,Georgia Institute of Technology,1983,Chicago,Illinois
+178,Jose Calderon,190,90,,1981,Villanueva de la Serena,Spain
+179,Travis Diener,185,79,Marquette University,1982,Fond du Lac,Wisconsin
+180,Ike Diogu,203,113,Arizona State University,1983,Buffalo,New York
+181,Monta Ellis,190,83,,1985,Jackson,Mississippi
+182,Daniel Ewing,190,83,Duke University,1983,Milton,Florida
+183,Noel Felix,206,102,"California State University, Fresno",1981,Los Angeles,California
+184,Raymond Felton,185,92,University of North Carolina,1984,Marion,South Carolina
+185,Gerald Fitch,190,85,University of Kentucky,1982,Columbus,Georgia
+186,Channing Frye,211,115,University of Arizona,1983,White Plains,New York
+187,Deng Gai,206,113,Fairfield University,1982,Wow,South Sudan
+188,Francisco Garcia,201,88,University of Louisville,1981,Santo Domingo,Dominican Republic
+189,Ryan Gomes,201,113,Providence College,1982,Waterbury,Connecticut
+190,Joey Graham,201,102,Oklahoma State University,1982,Wilmington,Delaware
+191,Stephen Graham,198,97,Oklahoma State University,1982,Wilmington,Delaware
+192,Danny Granger,206,100,University of New Mexico,1983,New Orleans,Louisiana
+193,Devin Green,201,95,Hampton University,1982,Columbus,Ohio
+194,Gerald Green,201,92,,1986,Houston,Texas
+195,Orien Greene,193,94,University of Louisiana at Lafayette,1982,Gainesville,Florida
+196,Chuck Hayes,198,108,University of Kentucky,1983,San Leandro,California
+197,Luther Head,190,83,University of Illinois at Urbana-Champaign,1982,Chicago,Illinois
+198,Julius Hodge,201,95,North Carolina State University,1983,New York,New York
+199,Jarrett Jack,190,90,Georgia Institute of Technology,1983,Fort Washington,Maryland
+200,Amir Johnson,206,108,,1987,Los Angeles,California
+201,Linas Kleiza,203,111,University of Missouri,1985,Kaunas,Lithuania
+202,Yaroslav Korolev,206,92,,1987,Moscow,Russia
+203,Arvydas Macijauskas,193,97,,1980,Klaipeda,Lithuania
+204,Rawle Marshall,206,86,Oakland University,1982,Georgetown,Guyana
+205,Jason Maxiell,201,117,University of Cincinnati,1983,Chicago,Illinois
+206,Sean May,206,120,University of North Carolina,1984,Chicago,Illinois
+207,Rashad McCants,193,93,University of North Carolina,1984,Asheville,North Carolina
+208,Aaron Miles,185,79,University of Kansas,1983,Portland,Oregon
+209,C.J. Miles,185,79,,1983,,
+210,Sergei Monia,203,99,,1983,Saratov,Russia
+211,Andre Owens,193,90,University of Houston,1980,Indianapolis,Indiana
+212,Chris Paul,183,79,Wake Forest University,1985,Winston-Salem,North Carolina
+213,Johan Petro,213,112,,1986,Paris,France
+214,Josh Powell,206,102,North Carolina State University,1983,Charleston,South Carolina
+215,Ronnie Price,188,86,Utah Valley State College,1983,Friendswood,Texas
+216,Shavlik Randolph,208,108,Duke University,1983,Raleigh,North Carolina
+217,Lawrence Roberts,206,108,Mississippi State University,1982,Houston,Texas
+218,Nate Robinson,175,81,University of Washington,1984,Seattle,Washington
+219,Melvin Sanders,196,95,Oklahoma State University,1981,Liberal,Kansas
+220,Luke Schenscher,216,115,Georgia Institute of Technology,1982,Hope Forest,Australia
+221,Wayne Simien,206,115,University of Kansas,1983,Leavenworth,Kansas
+222,James Singleton,203,97,Murray State University,1981,Chicago,Illinois
+223,Salim Stoudamire,185,81,University of Arizona,1982,Portland,Oregon
+224,Chris Taft,208,117,University of Pittsburgh,1985,Brooklyn,New York
+225,Donell Taylor,198,81,University of Alabama at Birmingham,1982,Washington,District of Columbia
+226,Dijon Thompson,201,88,"University of California, Los Angeles",1983,Los Angeles,California
+227,Ronny Turiaf,208,112,Gonzaga University,1983,Le Robert,Martinique
+228,Charlie Villanueva,211,105,University of Connecticut,1984,Queens,New York
+229,Von Wafer,196,95,Florida State University,1985,Homer,Louisiana
+230,Matt Walsh,198,92,University of Florida,1982,Holland,Pennsylvania
+231,Hakim Warrick,206,99,Syracuse University,1982,Philadelphia,Pennsylvania
+232,Robert Whaley,208,117,Walsh University,1982,Benton Harbor,Michigan
+233,Deron Williams,190,90,University of Illinois at Urbana-Champaign,1984,Parkersburg,West Virginia
+234,Marvin Williams,185,89,University of Alabama,1982,Jackson,Mississippi
+235,Antoine Wright,201,95,Texas A&M University,1984,West Covina,California
+236,Derrick Zimmerman,190,88,Mississippi State University,1981,Monroe,Louisiana
+237,Hassan Adams,193,99,University of Arizona,1984,Inglewood,California
+238,Maurice Ager,196,91,Michigan State University,1984,Detroit,Michigan
+239,LaMarcus Aldridge,211,117,University of Texas at Austin,1985,Dallas,Texas
+240,Lou Amundson,206,99,"University of Nevada, Las Vegas",1982,Ventura,California
+241,Hilton Armstrong,211,106,University of Connecticut,1984,Peekskill,New York
+242,James Augustine,208,106,University of Illinois at Urbana-Champaign,1984,Midlothian,Illinois
+243,Kelenna Azubuike,196,99,University of Kentucky,1983,London,United Kingdom
+244,Renaldo Balkman,203,94,University of South Carolina,1984,Staten Island,New York
+245,J.J. Barea,203,94,,1984,,
+246,Andrea Bargnani,213,111,,1985,Rome,Italy
+247,Will Blalock,183,92,Iowa State University,1983,Boston,Massachusetts
+248,Josh Boone,208,107,University of Connecticut,1984,Mount Airy,Maryland
+249,Cedric Bozeman,198,93,"University of California, Los Angeles",1983,Los Angeles,California
+250,Andre Brown,206,111,DePaul University,1981,Chicago,Illinois
+251,Shannon Brown,193,92,Michigan State University,1985,Maywood,Illinois
+252,Rodney Carney,201,92,University of Memphis,1984,Memphis,Tennessee
+253,Mardy Collins,198,99,Temple University,1984,Philadelphia,Pennsylvania
+254,Will Conroy,188,88,University of Washington,1982,Portland,Oregon
+255,Paul Davis,211,122,Michigan State University,1984,Detroit,Michigan
+256,Yakhouba Diawara,201,102,Pepperdine University,1982,Paris,France
+257,Quincy Douby,190,79,Rutgers University,1984,Brooklyn,New York
+258,Jordan Farmar,188,81,"University of California, Los Angeles",1986,Los Angeles,California
+259,Desmon Farmer,196,99,University of Southern California,1981,Flint,Michigan
+260,Randy Foye,193,96,Villanova University,1983,Newark,New Jersey
+261,Rudy Gay,203,104,University of Connecticut,1986,Brooklyn,New York
+262,Mickael Gelabale,201,97,,1983,Pointe Noire,Guadeloupe
+263,Daniel Gibson,188,86,University of Texas at Austin,1986,Houston,Texas
+264,Andreas Glyniadakis,216,127,,1981,Hania,Greece
+265,Mike Hall,203,104,George Washington University,1984,Chicago,Illinois
+266,Robert Hite,188,83,University of Miami,1984,Cincinnati,Ohio
+267,Ryan Hollins,213,108,"University of California, Los Angeles",1984,Pasadena,California
+268,Mile Ilic,216,104,,1984,Tuzla,Bosnia and Herzegovina
+269,Ersan Ilyasova,208,106,,1987,Eskisehir,Turkey
+270,Alexander Johnson,206,108,Florida State University,1983,Albany,Georgia
+271,Solomon Jones,208,104,University of South Florida,1984,Eustis,Florida
+272,Tarence Kinsey,198,83,University of South Carolina,1984,Tampa,Florida
+273,James Lang,208,129,,1983,Mobile,Alabama
+274,Kyle Lowry,183,92,Villanova University,1986,Philadelphia,Pennsylvania
+275,Renaldo Major,201,90,"California State University, Fresno",1982,Chicago,Illinois
+276,Damir Markota,208,102,,1985,Sarajevo,Bosnia and Herzegovina
+277,Chris McCray,196,87,University of Maryland,1984,Capitol Heights,Maryland
+278,Ivan McFarlin,203,108,Oklahoma State University,1982,Missouri City,Texas
+279,Pops Mensah-Bonsu,206,108,George Washington University,1983,London,United Kingdom
+280,Paul Millsap,203,111,Louisiana Tech University,1985,Monroe,Louisiana
+281,Randolph Morris,208,120,University of Kentucky,1986,Houston,Texas
+282,Adam Morrison,203,92,Gonzaga University,1984,Glendive,Montana
+283,David Noel,198,104,University of North Carolina,1984,Durham,North Carolina
+284,Steve Novak,208,102,Marquette University,1983,Libertyville,Illinois
+285,Patrick O'Bryant,213,117,Bradley University,1986,Oskaloosa,Iowa
+286,Kevinn Pinkney,208,111,"University of Nevada, Reno",1983,Colton,California
+287,Leon Powe,203,108,University of California,1984,Berkeley,California
+288,Roger Powell,198,106,University of Illinois at Urbana-Champaign,1983,Joliet,Illinois
+289,Chris Quinn,188,83,University of Notre Dame,1983,New Orleans,Louisiana
+290,Allan Ray,188,86,Villanova University,1984,Bronx,New York
+291,J.J. Redick,188,86,,1984,,
+292,Jeremy Richardson,198,83,Delta State University,1984,Allentown,Pennsylvania
+293,Sergio Rodriguez,190,79,,1986,Tenerife,Spain
+294,Rajon Rondo,185,84,University of Kentucky,1986,Louisville,Kentucky
+295,Brandon Roy,198,97,University of Washington,1984,Seattle,Washington
+296,Thabo Sefolosha,201,99,,1984,Vevey,Switzerland
+297,Mouhamed Sene,201,99,,1984,,
+298,Cedric Simmons,206,106,North Carolina State University,1986,Shallotte,North Carolina
+299,Uros Slokar,208,107,,1983,Ljubljana,Slovenia
+300,Craig Smith,201,113,Boston College,1983,Inglewood,California
+301,Vassilis Spanoulis,193,88,,1982,Larissa,Greece
+302,Tyrus Thomas,206,97,Louisiana State University,1986,Baton Rouge,Louisiana
+303,P.J. Tucker,206,97,,1986,,
+304,Marcus Vinicius,206,97,,1986,,
+305,Justin Williams,208,102,University of Wyoming,1984,Chicago,Illinois
+306,Marcus Williams,185,89,University of Alabama,1982,Jackson,Mississippi
+307,Arron Afflalo,196,95,"University of California, Los Angeles",1985,Los Angeles,California
+308,Blake Ahearn,188,86,Missouri State University,1984,St. Louis,Missouri
+309,Lance Allred,211,113,Weber State University,1981,Salt Lake City,Utah
+310,Morris Almond,198,102,Rice University,1985,Dalton,Georgia
+311,Joel Anthony,206,111,"University of Nevada, Las Vegas",1982,Montreal,Canada
+312,Marco Belinelli,196,95,,1986,Bologna,Italy
+313,Corey Brewer,206,84,University of Florida,1986,Portland,Tennessee
+314,Aaron Brooks,183,73,University of Oregon,1985,Seattle,Washington
+315,Wilson Chandler,203,102,DePaul University,1987,Benton Harbor,Michigan
+316,Mike Conley,185,79,Ohio State University,1987,Fayetteville,Arkansas
+317,Javaris Crittenton,196,90,Georgia Institute of Technology,1987,Atlanta,Georgia
+318,Jermareo Davidson,208,104,University of Alabama,1984,Atlanta,Georgia
+319,Glen Davis,206,131,Louisiana State University,1986,Baton Rouge,Louisiana
+320,Guillermo Diaz,188,87,University of Miami,1985,San Juan,Puerto Rico
+321,Jared Dudley,201,102,Boston College,1985,San Diego,California
+322,Kevin Durant,206,108,University of Texas at Austin,1988,Washington,District of Columbia
+323,Nick Fazekas,211,106,"University of Nevada, Reno",1985,Denver,Colorado
+324,Kyrylo Fesenko,216,130,,1986,Dnepropetrovsk,Ukraine
+325,Thomas Gardner,196,102,University of Missouri,1985,Portland,Oregon
+326,Marcin Gortat,211,108,,1984,Lodz,Poland
+327,Aaron Gray,213,122,University of Pittsburgh,1984,Tarzana,California
+328,Taurean Green,183,80,University of Florida,1986,Fort Lauderdale,Florida
+329,Mike Harris,198,108,Rice University,1983,Hillsboro,Texas
+330,Spencer Hawes,216,111,University of Washington,1988,Seattle,Washington
+331,Al Horford,208,111,University of Florida,1986,Puerto Plata,Dominican Republic
+332,Yi Jianlian,213,108,,1987,He Shan,China
+333,Coby Karl,196,97,Boise State University,1983,Great Falls,Montana
+334,Carl Landry,206,112,Purdue University,1983,Milwaukee,Wisconsin
+335,Keith Langford,193,97,University of Kansas,1983,Fort Worth,Texas
+336,Stephane Lasme,203,97,University of Massachusetts Amherst,1982,Port-Gentil,Gabon
+337,Acie Law,190,88,Texas A&M University,1985,Dallas,Texas
+338,Ian Mahinmi,211,113,,1986,Rouen,France
+339,Dominic McGuire,206,99,"California State University, Fresno",1985,San Diego,California
+340,Josh McRoberts,208,108,Duke University,1987,Indianapolis,Indiana
+341,Jamario Moon,203,92,Meridian Community College,1980,Goodwater,Alabama
+342,Juan Carlos,203,92,,1980,,
+343,Demetris Nichols,203,97,Syracuse University,1984,Boston,Massachusetts
+344,Joakim Noah,211,104,University of Florida,1985,New York,New York
+345,Oleksiy Pecherov,213,105,,1985,Donetsk,Ukraine
+346,Kosta Perovic,218,108,,1985,Osijek,Croatia
+347,Kasib Powell,201,97,Texas Tech University,1981,Teaneck,New Jersey
+348,Gabe Pruitt,193,77,University of Southern California,1986,Los Angeles,California
+349,Chris Richard,206,122,University of Florida,1984,Lakeland,Florida
+350,Cheikh Samb,216,111,,1984,Senegal,
+351,Luis Scola,206,108,,1980,Buenos Aires,Argentina
+352,Ramon Sessions,190,86,"University of Nevada, Reno",1986,Myrtle Beach,South Carolina
+353,Courtney Sims,208,111,University of Michigan,1983,Roslindale,Massachusetts
+354,Rodney Stuckey,196,95,Eastern Washington University,1986,Seattle,Washington
+355,Al Thornton,203,99,Florida State University,1983,Perry,Georgia
+356,Darius Washington,188,88,University of Memphis,1985,Winter Park,Florida
+357,Darryl Watkins,211,117,Syracuse University,1984,Paterson,New Jersey
+358,C.J. Watson,211,117,,1984,,
+359,Sean Williams,208,106,Boston College,1986,Houston,Texas
+360,Julian Wright,203,102,University of Kansas,1987,Chicago,Illinois
+361,Nick Young,201,95,University of Southern California,1985,Los Angeles,California
+362,Thaddeus Young,203,100,Georgia Institute of Technology,1988,New Orleans,Louisiana
+363,Alexis Ajinca,218,112,,1988,Saint-Etienne,France
+364,Joe Alexander,203,104,West Virginia University,1986,Kaohsiung,Taiwan
+365,Ryan Anderson,208,108,University of California,1988,Sacramento,California
+366,Darrell Arthur,206,106,University of Kansas,1988,Dallas,Texas
+367,D.J. Augustin,206,106,,1988,,
+368,Nicolas Batum,203,90,,1988,Lisieux,France
+369,Jerryd Bayless,190,90,University of Arizona,1988,Phoenix,Arizona
+370,Michael Beasley,206,106,Kansas State University,1989,Frederick,Maryland
+371,Mario Chalmers,188,86,University of Kansas,1986,Anchorage,Alaska
+372,Joe Crawford,196,95,University of Kentucky,1986,Detroit,Michigan
+373,Joey Dorsey,203,121,University of Memphis,1983,Baltimore,Maryland
+374,Chris Douglas-Roberts,201,90,University of Memphis,1987,Detroit,Michigan
+375,Goran Dragic,190,86,,1986,Ljubljana,Slovenia
+376,Rudy Fernandez,198,83,,1985,Palma de Mallorca,Spain
+377,Danilo Gallinari,208,102,,1988,Sant'Angelo Lodigiano,Italy
+378,Marc Gasol,216,115,,1985,Barcelona,Spain
+379,J.R. Giddens,216,115,,1985,,
+380,Eric Gordon,193,97,Indiana University,1988,Indianapolis,Indiana
+381,Donte Greene,211,102,Syracuse University,1988,Munich,Germany
+382,Hamed Haddadi,218,115,,1985,Ahvaz,Islamic Republic of Iran
+383,Malik Hairston,198,99,University of Oregon,1987,Detroit,Michigan
+384,Roy Hibbert,218,122,Georgetown University,1986,Queens,New York
+385,J.J. Hickson,218,122,,1986,,
+386,George Hill,190,85,Indiana University-Purdue University Indianapolis,1986,Indianapolis,Indiana
+387,Steven Hill,213,112,University of Arkansas,1985,Chanute,Kansas
+388,Othello Hunter,203,102,Ohio State University,1986,Winston-Salem,North Carolina
+389,Darnell Jackson,206,114,University of Kansas,1985,Oklahoma City,Oklahoma
+390,Nathan Jawai,208,127,Midland College,1986,Sydney,Australia
+391,Dontell Jefferson,196,88,University of Arkansas,1983,Lithonia,Georgia
+392,Trey Johnson,196,98,Jackson State University,1984,Jackson,Mississippi
+393,DeAndre Jordan,211,120,Texas A&M University,1988,Houston,Texas
+394,Kosta Koufos,213,120,Ohio State University,1989,Canton,Ohio
+395,Rob Kurz,206,105,University of Notre Dame,1985,Philadelphia,Pennsylvania
+396,Courtney Lee,196,90,Western Kentucky University,1985,Indianapolis,Indiana
+397,Brook Lopez,213,124,Stanford University,1988,North Hollywood,California
+398,Robin Lopez,213,115,Stanford University,1988,North Hollywood,California
+399,Kevin Love,208,113,"University of California, Los Angeles",1988,Santa Monica,California
+400,Cartier Martin,201,99,Kansas State University,1984,Crockett,Texas
+401,O.J. Mayo,201,99,,1984,,
+402,Luc Mbah,201,99,,1984,,
+403,JaVale McGee,213,122,"University of Nevada, Reno",1988,Flint,Michigan
+404,Anthony Morrow,196,95,Georgia Institute of Technology,1985,Charlotte,North Carolina
+405,DeMarcus Nelson,193,90,Duke University,1985,Oakland,California
+406,Greg Oden,213,113,Ohio State University,1988,Buffalo,New York
+407,Anthony Randolph,208,92,Louisiana State University,1989,Worzbach,Germany
+408,Derrick Rose,190,86,University of Memphis,1988,Chicago,Illinois
+409,Brandon Rush,198,99,University of Kansas,1985,Kansas City,Missouri
+410,Walter Sharpe,206,111,University of Alabama at Birmingham,1986,Huntsville,Alabama
+411,Sean Singletary,183,83,University of Virginia,1985,Philadelphia,Pennsylvania
+412,Marreese Speights,208,115,University of Florida,1987,St. Petersburg,Florida
+413,Mike Taylor,188,74,Iowa State University,1986,Chicago,Illinois
+414,Anthony Tolliver,203,108,Creighton University,1985,Springfield,Missouri
+415,Roko Ukic,196,83,,1984,Split,Croatia
+416,Henry Walker,196,83,,1984,,
+417,Kyle Weaver,198,91,Washington State University,1986,Janesville,Wisconsin
+418,Sonny Weems,198,92,University of Arkansas,1986,West Memphis,Arkansas
+419,Russell Westbrook,190,90,"University of California, Los Angeles",1988,Long Beach,California
+420,D.J. White,190,90,,1988,,
+421,Sun Yue,206,92,,1985,Hebei,China
+422,Rodrigue Beaubois,183,77,,1988,Pointe-a-Pitre,Guadeloupe
+423,DeJuan Blair,201,122,University of Pittsburgh,1989,Pittsburgh,Pennsylvania
+424,Jon Brockman,201,115,University of Washington,1987,Snohomish,Washington
+425,Chase Budinger,201,94,University of Arizona,1988,Encinitas,California
+426,DeMarre Carroll,203,97,University of Missouri,1986,Birmingham,Alabama
+427,Omri Casspi,206,102,,1988,Holon,Israel
+428,Earl Clark,208,102,University of Louisville,1988,Plainfield,New Jersey
+429,Darren Collison,183,79,"University of California, Los Angeles",1987,Rancho Cucamonga,California
+430,Dante Cunningham,203,104,Villanova University,1987,Clinton,Maryland
+431,JamesOn Curry,190,86,Oklahoma State University,1986,Pleasant Grove,North Carolina
+432,Stephen Curry,190,86,Davidson College,1988,Akron,Ohio
+433,Austin Daye,211,99,Gonzaga University,1988,Irvine,California
+434,DeMar DeRozan,201,100,University of Southern California,1989,Compton,California
+435,Toney Douglas,188,88,Florida State University,1986,Jonesboro,Georgia
+436,Wayne Ellington,193,90,University of North Carolina,1987,Wynnewood,Pennsylvania
+437,Tyreke Evans,198,99,University of Memphis,1989,Chester,Pennsylvania
+438,Jonny Flynn,183,83,Syracuse University,1989,Niagara Falls,New York
+439,Sundiata Gaines,185,83,University of Georgia,1986,Jamaica,New York
+440,Alonzo Gee,198,102,University of Alabama,1987,Riviera Beach,Florida
+441,Taj Gibson,206,102,University of Southern California,1985,Brooklyn,New York
+442,Trey Gilder,206,83,Northwestern State University,1985,Dallas,Texas
+443,Taylor Griffin,201,107,University of Oklahoma,1986,Oklahoma City,Oklahoma
+444,Tyler Hansbrough,206,113,University of North Carolina,1985,Poplar Bluff,Missouri
+445,James Harden,196,99,Arizona State University,1989,Los Angeles,California
+446,Jordan Hill,208,106,University of Arizona,1987,Atlanta,Georgia
+447,Jrue Holiday,193,92,"University of California, Los Angeles",1990,Chatsworth,California
+448,Lester Hudson,190,86,University of Tennessee at Martin,1984,Memphis,Tennessee
+449,Chris Hunter,211,108,University of Michigan,1984,Gary,Indiana
+450,Serge Ibaka,208,106,,1989,Brazzaville,Republic of the Congo
+451,Cedric Jackson,190,86,Cleveland State University,1986,Alamogordo,New Mexico
+452,Othyus Jeffers,196,90,Robert Morris University (IL),1985,Chicago,Illinois
+453,Brandon Jennings,185,77,,1989,Compton,California
+454,Jonas Jerebko,208,104,,1987,Kinna,Sweden
+455,James Johnson,206,113,Wake Forest University,1987,Cheyenne,Wyoming
+456,Oliver Lafayette,188,86,University of Houston,1984,Baton Rouge,Louisiana
+457,Marcus Landry,201,104,University of Wisconsin,1985,Milwaukee,Wisconsin
+458,Ty Lawson,180,88,University of North Carolina,1987,Clinton,Maryland
+459,Eric Maynor,190,79,Virginia Commonwealth University,1987,Raeford,North Carolina
+460,Jodie Meeks,193,95,University of Kentucky,1987,Norcross,Georgia
+461,Patty Mills,203,111,Louisiana Tech University,1985,Monroe,Louisiana
+462,Byron Mullens,213,124,Ohio State University,1989,Canal Winchester,Ohio
+463,A.J. Price,213,124,,1989,,
+464,DaJuan Summers,203,104,Georgetown University,1988,Baltimore,Maryland
+465,Jeff Teague,188,84,Wake Forest University,1988,Indianapolis,Indiana
+466,Garrett Temple,198,88,Louisiana State University,1986,Baton Rouge,Louisiana
+467,Hasheem Thabeet,221,119,University of Connecticut,1987,Dar es Salaam,United Republic of Tanzania
+468,Marcus Thornton,193,92,Louisiana State University,1987,Baton Rouge,Louisiana
+469,Terrence Williams,198,99,University of Louisville,1987,Seattle,Washington
+470,Sam Young,198,99,University of Pittsburgh,1985,Washington,District of Columbia
+471,Jeff Adrien,201,111,University of Connecticut,1986,Brookline,Massachusetts
+472,Solomon Alabi,216,113,Florida State University,1988,Kaduna,Nigeria
+473,Cole Aldrich,211,113,University of Kansas,1988,Burnsville,Minnesota
+474,Al-Farouq Aminu,206,99,Wake Forest University,1990,Atlanta,Georgia
+475,James Anderson,198,96,Oklahoma State University,1989,El Dorado,Arkansas
+476,Omer Asik,213,115,,1986,Bursa,Turkey
+477,Luke Babbitt,206,102,"University of Nevada, Reno",1989,Cincinnati,Ohio
+478,Eric Bledsoe,185,86,University of Kentucky,1989,Birmingham,Alabama
+479,Trevor Booker,203,103,Clemson University,1987,Newberry,South Carolina
+480,Craig Brackins,208,104,Iowa State University,1987,Los Angeles,California
+481,Avery Bradley,188,81,University of Texas at Austin,1990,Tacoma,Washington
+482,Derrick Caracter,206,124,University of Texas at El Paso,1988,Fanwood,New Jersey
+483,Sherron Collins,180,92,University of Kansas,1987,Chicago,Illinois
+484,Marcus Cousin,211,111,University of Houston,1986,Baltimore,Maryland
+485,DeMarcus Cousins,211,122,University of Kentucky,1990,Mobile,Alabama
+486,Jordan Crawford,196,95,University of Kentucky,1986,Detroit,Michigan
+487,Ed Davis,208,108,University of North Carolina,1989,Washington,District of Columbia
+488,Zabian Dowdell,190,86,Virginia Polytechnic Institute and State University,1984,Pahokee,Florida
+489,Devin Ebanks,206,97,West Virginia University,1989,Queens,New York
+490,Semih Erden,213,108,,1986,Istanbul,Turkey
+491,Jeremy Evans,206,90,Western Kentucky University,1987,Crossett,Arkansas
+492,Christian Eyenga,196,95,,1989,Kinshasa,Democratic Republic of the Congo
+493,Derrick Favors,208,120,Georgia Institute of Technology,1991,Atlanta,Georgia
+494,Landry Fields,201,95,Stanford University,1988,Long Beach,California
+495,Gary Forbes,201,99,University of Massachusetts Amherst,1985,Colon,Panama
+496,Paul George,206,99,"California State University, Fresno",1990,Palmdale,California
+497,Blake Griffin,208,113,University of Oklahoma,1989,Oklahoma City,Oklahoma
+498,Luke Harangody,203,111,University of Notre Dame,1988,Decatur,Illinois
+499,Manny Harris,196,83,University of Michigan,1989,Detroit,Michigan
+500,Gordon Hayward,203,102,Butler University,1990,Indianapolis,Indiana
+501,Lazar Hayward,198,102,Marquette University,1986,Buffalo,New York
+502,Xavier Henry,198,99,University of Kansas,1991,Gent,Belgium
+503,Damion James,201,102,University of Texas at Austin,1987,Hobbs,New Mexico
+504,Eugene Jeter,180,79,University of Portland,1983,Los Angeles,California
+505,Wesley Johnson,201,97,Syracuse University,1987,Corsicana,Texas
+506,Gani Lawal,206,106,Georgia Institute of Technology,1988,College Park,Georgia
+507,Jeremy Lin,190,90,Harvard University,1988,Palo Alto,California
+508,Greg Monroe,211,120,Georgetown University,1990,New Orleans,Louisiana
+509,Timofey Mozgov,216,124,,1986,St. Petersburg,Russia
+510,Hamady N'Diaye,213,106,Rutgers University,1987,Dakar,Senegal
+511,Gary Neal,193,95,Towson University,1984,Baltimore,Maryland
+512,Larry Owens,201,95,Oral Roberts University,1983,Mesa,Arizona
+513,Patrick Patterson,206,104,University of Kentucky,1989,Washington,District of Columbia
+514,Nikola Pekovic,211,139,,1986,Bijelo Polje,Montenegro
+515,Dexter Pittman,211,139,University of Texas at Austin,1988,Rosenberg,Texas
+516,Quincy Pondexter,201,99,University of Washington,1988,Fresno,California
+517,Andy Rautins,193,86,Syracuse University,1986,Syracuse,New York
+518,Samardo Samuels,206,117,University of Louisville,1989,Trelawny,Jamaica
+519,Larry Sanders,211,106,Virginia Commonwealth University,1988,Fort Pierce,Florida
+520,Kevin Seraphin,206,129,,1989,Cayenne,French Guiana
+521,Mustafa Shakur,190,86,University of Arizona,1984,Philadelphia,Pennsylvania
+522,Garret Siler,211,138,Augusta State University,1986,Augusta,Georgia
+523,Ish Smith,183,79,Wake Forest University,1988,Charlotte,North Carolina
+524,Tiago Splitter,211,111,,1985,Joinville,Brazil
+525,Lance Stephenson,196,104,University of Cincinnati,1990,Brooklyn,New York
+526,Pape Sy,201,102,,1988,Loudeac,France
+527,Evan Turner,201,99,Ohio State University,1988,Chicago,Illinois
+528,Ekpe Udoh,208,108,Baylor University,1987,Edmond,Oklahoma
+529,Ben Uzoh,190,92,University of Tulsa,1988,Houston,Texas
+530,Greivis Vasquez,198,98,University of Maryland,1987,Caracas,Venezuela
+531,John Wall,193,88,University of Kentucky,1990,Raleigh,North Carolina
+532,Willie Warren,193,92,University of Oklahoma,1989,Dallas,Texas
+533,Hassan Whiteside,213,120,Marshall University,1989,Gastonia,North Carolina
+534,Lavoy Allen,206,117,Temple University,1989,Morrisville,Pennsylvania
+535,Gustavo Ayon,208,113,,1985,Tepic,Mexico
+536,Bismack Biyombo,206,115,,1992,Lubumbashi,Democratic Republic of the Congo
+537,MarShon Brooks,196,90,Providence College,1989,Long Branch,New Jersey
+538,Alec Burks,198,97,University of Colorado,1991,Grandview,Missouri
+539,Jimmy Butler,201,99,Marquette University,1989,Houston,Texas
+540,Derrick Byars,201,99,Vanderbilt University,1984,Memphis,Tennessee
+541,Norris Cole,188,79,Cleveland State University,1988,Dayton,Ohio
+542,Eric Dawson,206,113,Midwestern State University,1984,San Antonio,Texas
+543,Justin Dentmon,180,83,University of Washington,1985,Carbondale,Illinois
+544,Jerome Dyson,190,81,University of Connecticut,1987,Rockville,Maryland
+545,Kenneth Faried,203,103,Morehead State University,1989,Newark,New Jersey
+546,Jeff Foote,213,120,Cornell University,1987,Lockwood,New York
+547,Courtney Fortson,180,83,University of Arkansas,1988,San Antonio,Texas
+548,Jimmer Fredette,188,88,Brigham Young University,1989,Glens Falls,New York
+549,Mickell Gladness,211,99,Alabama A&M University,1986,Birmingham,Alabama
+550,Andrew Goudelock,190,90,College of Charleston,1988,Gainesville,Georgia
+551,Justin Harper,208,102,University of Richmond,1989,Richmond,Virginia
+552,Josh Harrellson,208,124,University of Kentucky,1989,St. Charles,Missouri
+553,Terrel Harris,196,86,Oklahoma State University,1987,Dallas,Texas
+554,Cory Higgins,196,81,University of Colorado,1989,Danville,California
+555,Darington Hobson,201,95,University of New Mexico,1987,Las Vegas,Nevada
+556,Tyler Honeycutt,203,85,"University of California, Los Angeles",1990,Los Angeles,California
+557,Dennis Horner,206,104,North Carolina State University,1988,Linwood,New Jersey
+558,Kyrie Irving,190,87,Duke University,1992,Melbourne,Australia
+559,Reggie Jackson,190,94,Boston College,1990,Pordenone,Italy
+560,Charles Jenkins,190,99,Hofstra University,1989,Brooklyn,New York
+561,Carldell Johnson,178,81,University of Alabama at Birmingham,1983,New Orleans,Louisiana
+562,Ivan Johnson,203,104,University of Oregon,1984,San Antonio,Texas
+563,JaJuan Johnson,206,113,Wake Forest University,1987,Cheyenne,Wyoming
+564,Jerome Jordan,213,114,University of Tulsa,1986,Kingston,Jamaica
+565,Cory Joseph,190,87,University of Texas at Austin,1991,Toronto,Canada
+566,Enes Kanter,211,111,,1992,Zurich,Switzerland
+567,D.J. Kennedy,211,111,,1992,,
+568,Malcolm Lee,196,90,"University of California, Los Angeles",1990,Riverside,California
+569,Kawhi Leonard,201,104,San Diego State University,1991,Los Angeles,California
+570,Travis Leslie,193,92,University of Georgia,1990,Atlanta,Georgia
+571,Jon Leuer,208,103,University of Wisconsin,1989,Long Lake,Minnesota
+572,DeAndre Liggins,198,94,University of Kentucky,1988,Chicago,Illinois
+573,Shelvin Mack,190,92,Butler University,1990,Lexington,Kentucky
+574,Vernon Macklin,208,102,University of Florida,1986,Portsmouth,Virginia
+575,E'Twaun Moore,208,102,,1986,,
+576,Darius Morris,193,86,University of Michigan,1991,Los Angeles,California
+577,Daniel Orton,208,115,University of Kentucky,1990,Oklahoma City,Oklahoma
+578,Jeremy Pargo,188,99,Gonzaga University,1986,Chicago,Illinois
+579,Chandler Parsons,208,104,University of Florida,1988,Casselberry,Florida
+580,Ryan Reid,203,105,Florida State University,1986,Lauderdale Lakes,Florida
+581,Ricky Rubio,193,87,,1990,Barcelona,Spain
+582,Josh Selby,188,83,University of Kansas,1991,Baltimore,Maryland
+583,Iman Shumpert,196,99,Georgia Institute of Technology,1990,Oak Park,Illinois
+584,Xavier Silas,196,92,Northern Illinois University,1988,San Antonio,Texas
+585,Chris Singleton,203,104,Florida State University,1989,Canton,Georgia
+586,Donald Sloan,190,92,Texas A&M University,1988,Shreveport,Louisiana
+587,Jerry Smith,188,86,University of Louisville,1987,Wauwatosa,Wisconsin
+588,Nolan Smith,188,83,Duke University,1988,Louisville,Kentucky
+589,Greg Stiemsma,211,117,University of Wisconsin,1985,Randolph,Wisconsin
+590,Julyan Stone,198,90,University of Texas at El Paso,1988,Alexandria,Virginia
+591,Lance Thomas,203,106,Duke University,1988,Brooklyn,New York
+592,Malcolm Thomas,206,102,San Diego State University,1988,Columbia,Missouri
+593,Trey Thompkins,206,107,University of Texas at Austin,1991,Toronto,Canada
+594,Klay Thompson,201,97,Washington State University,1990,Los Angeles,California
+595,Tristan Thompson,206,107,University of Texas at Austin,1991,Toronto,Canada
+596,Jeremy Tyler,208,117,,1991,San Diego,California
+597,Edwin Ubiles,198,92,Siena College,1986,Brooklyn,New York
+598,Jan Vesely,211,108,,1990,Ostrava,Czech Republic
+599,Nikola Vucevic,213,117,University of Southern California,1990,Morges,Switzerland
+600,Derrick Williams,190,90,University of Illinois at Urbana-Champaign,1984,Parkersburg,West Virginia
+601,Elliot Williams,196,86,University of Memphis,1989,Memphis,Tennessee
+602,Chris Wright,203,102,University of Dayton,1988,Trotwood,Ohio
+603,Quincy Acy,201,108,Baylor University,1990,Tyler,Texas
+604,Josh Akognon,180,83,"California State University, Fullerton",1986,Greenbrae,California
+605,Will Barton,198,79,University of Memphis,1991,Baltimore,Maryland
+606,Aron Baynes,208,117,Washington State University,1986,Gisborne,New Zealand
+607,Kent Bazemore,196,91,Old Dominion University,1989,Kelford,North Carolina
+608,Bradley Beal,196,93,University of Florida,1993,St. Louis,Missouri
+609,Patrick Beverley,185,83,University of Arkansas,1988,Chicago,Illinois
+610,Victor Claver,206,101,,1988,Valencia,Spain
+611,Chris Copeland,206,108,University of Colorado,1984,Orange,New Jersey
+612,Jae Crowder,198,106,Marquette University,1990,Villa Rica,Georgia
+613,Jared Cunningham,193,88,Oregon State University,1991,Oakland,California
+614,Andre Drummond,211,126,University of Connecticut,1993,Mount Vernon,New York
+615,Kim English,198,90,University of Missouri,1988,Baltimore,Maryland
+616,Festus Ezeli,211,115,Vanderbilt University,1989,Benin City,Nigeria
+617,Evan Fournier,201,92,,1992,Saint-Maurice,France
+618,Joel Freeland,208,113,,1987,Farnham,United Kingdom
+619,Draymond Green,201,104,Michigan State University,1990,Saginaw,Michigan
+620,Ben Hansbrough,190,92,University of Notre Dame,1987,Poplar Bluff,Missouri
+621,Maurice Harkless,206,97,St. John's University,1993,Queens,New York
+622,John Henson,211,103,University of North Carolina,1990,Greensboro,North Carolina
+623,Justin Holiday,198,83,University of Washington,1989,Mission Hills,California
+624,Bernard James,208,108,Florida State University,1985,Savannah,Georgia
+625,John Jenkins,193,97,Vanderbilt University,1991,Nashville,Tennessee
+626,Orlando Johnson,196,99,"University of California, Santa Barbara",1989,Monterey,California
+627,DeQuan Jones,203,100,University of Miami,1990,Stone Mountain,Georgia
+628,Kevin Jones,203,113,West Virginia University,1989,Mount Vernon,New York
+629,Perry Jones,211,106,Baylor University,1991,Winnsboro,Louisiana
+630,Terrence Jones,206,114,University of Kentucky,1992,Portland,Oregon
+631,Kris Joseph,201,95,Syracuse University,1988,Montreal,Canada
+632,Michael Kidd-Gilchrist,201,105,University of Kentucky,1993,Philadelphia,Pennsylvania
+633,Viacheslav Kravtsov,213,117,,1987,Odessa,Ukraine
+634,Doron Lamb,193,95,University of Kentucky,1991,Queens,New York
+635,Jeremy Lamb,196,83,University of Connecticut,1992,Henrico Valley,Virginia
+636,Meyers Leonard,216,111,University of Illinois at Urbana-Champaign,1992,Woodbridge,Virginia
+637,Damian Lillard,190,88,Weber State University,1990,Oakland,California
+638,Scott Machado,185,92,Iona College,1990,Queens,New York
+639,Kendall Marshall,193,90,University of North Carolina,1991,Dumfries,Virginia
+640,Fab Melo,213,115,Syracuse University,1990,Juiz de Forz,Brazil
+641,Khris Middleton,203,106,Texas A&M University,1991,Charleston,South Carolina
+642,Darius Miller,203,106,University of Kentucky,1990,Maysville,Kentucky
+643,Quincy Miller,206,95,Baylor University,1992,Chicago,Illinois
+644,Donatas Motiejunas,213,100,,1990,Kaunas,Lithuania
+645,Arnett Moultrie,211,112,Mississippi State University,1990,Queens,New York
+646,Kevin Murphy,196,83,Tennessee Technological University,1990,Atlanta,Georgia
+647,Andrew Nicholson,206,113,St. Bonaventure University,1989,Mississauga,Canada
+648,Kyle O'Quinn,208,113,Norfolk State University,1990,Flushing,New York
+649,Tim Ohlbrecht,211,115,,1988,Wuppertal,Germany
+650,Miles Plumlee,211,112,Duke University,1988,Fort Wayne,Indiana
+651,Austin Rivers,193,90,Duke University,1992,Santa Monica,California
+652,Brian Roberts,185,78,University of Dayton,1985,Toledo,Ohio
+653,Thomas Robinson,208,107,University of Kansas,1991,Washington,District of Columbia
+654,Terrence Ross,201,93,University of Washington,1991,Portland,Oregon
+655,Robert Sacre,213,122,Gonzaga University,1989,Baton Rouge,Louisiana
+656,Mike Scott,203,107,University of Virginia,1988,Chesapeake,Virginia
+657,Tornike Shengelia,206,98,,1991,Tbilisi,Georgia
+658,Alexey Shved,198,86,,1988,Belgorod,Russia
+659,Henry Sims,208,112,Georgetown University,1990,Baltimore,Maryland
+660,Kyle Singler,203,103,Duke University,1988,Medford,Oregon
+661,Jared Sullinger,206,117,Ohio State University,1992,Columbus,Ohio
+662,Tyshawn Taylor,190,83,University of Kansas,1990,Hoboken,New Jersey
+663,Marquis Teague,188,85,University of Kentucky,1993,Indianapolis,Indiana
+664,Mirza Teletovic,206,109,,1985,Mostar,Bosnia and Herzegovina
+665,Jonas Valanciunas,213,120,,1992,Utena,Lithuania
+666,Jarvis Varnado,206,104,Mississippi State University,1988,Fairfax,Virginia
+667,Dion Waiters,193,102,Syracuse University,1991,Philadelphia,Pennsylvania
+668,Maalik Wayns,188,90,Villanova University,1991,Philadelphia,Pennsylvania
+669,Tony Wroten,198,92,University of Washington,1993,Seattle,Washington
+670,Luke Zeller,211,111,University of Notre Dame,1987,Ames,Iowa
+671,Tyler Zeller,213,114,University of North Carolina,1990,Visalia,California
+672,Steven Adams,213,115,University of Pittsburgh,1993,Rotorua,New Zealand
+673,Giannis Antetokounmpo,211,100,,1994,Athens,Greece
+674,Pero Antic,211,117,,1982,Skopje,FYR Macedonia
+675,Chris Babb,196,102,Iowa State University,1990,Arlington,Texas
+676,Anthony Bennett,203,111,"University of Nevada, Las Vegas",1993,Toronto,Canada
+677,Vander Blue,193,90,Marquette University,1992,Milwaukee,Wisconsin
+678,Lorenzo Brown,196,85,North Carolina State University,1990,Roswell,Georgia
+679,Reggie Bullock,201,92,University of North Carolina,1991,Baltimore,Maryland
+680,Trey Burke,185,86,University of Michigan,1992,Columbus,Ohio
+681,Dwight Buycks,190,86,Marquette University,1989,Milwaukee,Wisconsin
+682,Nick Calathes,198,96,University of Florida,1989,Casselberry,Florida
+683,Kentavious Caldwell-Pope,196,92,University of Georgia,1993,Thomaston,Georgia
+684,Isaiah Canaan,183,91,Murray State University,1991,Biloxi,Mississippi
+685,Michael Carter-Williams,198,86,Syracuse University,1991,Hamilton,Massachusetts
+686,Dionte Christmas,196,92,Temple University,1986,Philadelphia,Pennsylvania
+687,Ian Clark,190,79,Belmont University,1991,Memphis,Tennessee
+688,Robert Covington,206,97,Tennessee State University,1990,Bellwood,Illinois
+689,Allen Crabbe,198,95,University of California,1992,Los Angeles,California
+690,Seth Curry,188,83,Duke University,1990,Charlotte,North Carolina
+691,Troy Daniels,193,92,Virginia Commonwealth University,1991,Roanoke,Virginia
+692,Luigi Datome,203,97,,1987,Montebelluna,Italy
+693,Brandon Davies,208,108,Brigham Young University,1991,Philadelphia,Pennsylvania
+694,Dewayne Dedmon,213,111,University of Southern California,1989,Lancaster,California
+695,Matthew Dellavedova,193,89,Saint Mary's College of California,1990,Maryborough,Australia
+696,Gorgui Dieng,211,109,University of Louisville,1990,Kebemer,Senegal
+697,Shane Edwards,201,99,University of Arkansas at Little Rock,1987,Los Angeles,California
+698,Vitor Faverani,211,117,,1988,Porto Alegre,Brazil
+699,Carrick Felix,198,91,Arizona State University,1990,Las Vegas,Arizona
+700,Jamaal Franklin,196,86,San Diego State University,1991,Moreno Valley,California
+701,Rudy Gobert,216,111,,1992,Saint-Quentin,France
+702,Archie Goodwin,196,90,University of Kentucky,1994,Little Rock,Arkansas
+703,Jorge Gutierrez,190,86,University of California,1988,Chihuahua,Mexico
+704,Justin Hamilton,213,117,Louisiana State University,1990,Newport Beach,California
+705,Elias Harris,203,108,Gonzaga University,1989,Speyer,Germany
+706,Solomon Hill,201,102,University of Arizona,1991,Los Angeles,California
+707,Scotty Hopson,201,92,University of Tennessee,1989,Hopkinsville,Kentucky
+708,Robbie Hummel,203,97,Purdue University,1989,Valparaiso,Indiana
+709,Sergey Karasev,201,94,,1993,St. Petersburg,Russia
+710,Ryan Kelly,211,104,Duke University,1991,Carmel,New York
+711,Ognjen Kuzmic,216,113,,1990,Doboj,Bosnia and Herzegovina
+712,Shane Larkin,180,79,University of Miami,1992,Cincinnati,Ohio
+713,Ricky Ledo,201,88,,1992,Providence,Rhode Island
+714,Alex Len,216,117,University of Maryland,1993,Antratsit,Ukraine
+715,Ray McCallum,190,86,University of Detroit Mercy,1991,Madison,Wisconsin
+716,C.J. McCollum,190,86,,1991,,
+717,Ben McLemore,196,88,University of Kansas,1993,St. Louis,Missouri
+718,Gal Mekel,190,86,Wichita State University,1988,Petah Tikva,Israel
+719,Shabazz Muhammad,198,101,"University of California, Los Angeles",1992,Los Angeles,California
+720,Erik Murphy,208,104,University of Florida,1990,Lyon,France
+721,Toure' Murry,196,88,Wichita State University,1989,Houston,Texas
+722,Mike Muscala,211,108,Bucknell University,1991,St. Louis Park,Minnesota
+723,Nemanja Nedovic,190,87,,1991,Nova Varos,Serbia
+724,James Nunnally,201,92,"University of California, Santa Barbara",1990,San Jose,California
+725,Victor Oladipo,193,95,Indiana University,1992,Silver Spring,Maryland
+726,Kelly Olynyk,213,107,Gonzaga University,1991,Toronto,Canada
+727,Arinze Onuaku,206,115,Syracuse University,1987,Lanham,Maryland
+728,Mason Plumlee,211,111,Duke University,1990,Fort Wayne,Indiana
+729,Otto Porter,203,89,Georgetown University,1993,St. Louis,Missouri
+730,Phil Pressey,180,79,University of Missouri,1991,Dallas,Texas
+731,Miroslav Raduljica,213,113,,1988,Belgrade,Serbia
+732,Dennis Schroder,185,78,,1993,Braunschweig,Germany
+733,Peyton Siva,183,83,University of Louisville,1990,Seattle,Washington
+734,Tony Snell,201,90,University of New Mexico,1991,Riverside,California
+735,James Southerland,203,97,Syracuse University,1990,Queens,New York
+736,D.J. Stephens,203,97,,1990,,
+737,Adonis Thomas,201,90,University of Memphis,1993,Memphis,Tennessee
+738,Hollis Thompson,203,93,Georgetown University,1991,Pasadena,California
+739,Casper Ware,178,79,"California State University, Long Beach",1990,Cerritos,California
+740,Jeff Withey,213,104,University of Kansas,1990,San Diego,California
+741,Nate Wolters,193,86,South Dakota State University,1991,St. Cloud,Minnesota
+742,Cody Zeller,213,108,Indiana University,1992,Washington,Indiana
+743,Jordan Adams,196,94,"University of California, Los Angeles",1994,Atlanta,Georgia
+744,Furkan Aldemir,208,108,,1991,Konak,Turkey
+745,Kyle Anderson,206,104,"University of California, Los Angeles",1993,New York,New York
+746,Cameron Bairstow,206,113,University of New Mexico,1990,Brisbane,Australia
+747,Jerrelle Benimon,203,111,Towson University,1991,Warrenton,Virginia
+748,Sim Bhullar,226,163,New Mexico State University,1992,Ontario,Canada
+749,Tarik Black,206,113,University of Kansas,1991,Memphis,Tennessee
+750,Bojan Bogdanovic,198,92,,1992,Belgrade,Serbia
+751,Jabari Brown,193,97,University of Missouri,1992,Oakland,California
+752,Bruno Caboclo,206,98,,1995,Osasco,Brazil
+753,Clint Capela,206,98,,1995,,
+754,Will Cherry,183,83,University of Montana,1991,Oakland,California
+755,Patrick Christopher,196,94,University of California,1988,Compton,California
+756,Jordan Clarkson,196,87,University of Missouri,1992,Tampa,Florida
+757,Jack Cooley,206,117,University of Notre Dame,1991,Evanston,Illinois
+758,Bryce Cotton,185,74,Providence College,1992,Tucson,Arizona
+759,Andre Dawkins,196,97,Duke University,1991,Fairfax,Virginia
+760,Spencer Dinwiddie,198,90,University of Colorado,1993,Los Angeles,California
+761,Zoran Dragic,196,90,,1989,Ljubljana,Slovenia
+762,Cleanthony Early,203,95,Wichita State University,1991,Middletown,New York
+763,James Ennis,201,95,"California State University, Long Beach",1990,Ventura,California
+764,Tyler Ennis,190,87,Syracuse University,1994,Brampton,Canada
+765,Dante Exum,198,86,,1995,Melbourne,Australia
+766,Tim Frazier,185,77,Pennsylvania State University,1990,Houston,Texas
+767,Langston Galloway,188,90,Saint Joseph's University,1991,Baton Rouge,Louisiana
+768,Aaron Gordon,206,99,University of Arizona,1995,San Jose,California
+769,Drew Gordon,206,111,University of New Mexico,1990,San Jose,California
+770,Jerami Grant,203,95,Syracuse University,1994,Portland,Oregon
+771,Erick Green,193,83,Virginia Polytechnic Institute and State University,1991,Inglewood,California
+772,JaMychal Green,206,102,University of Alabama,1990,Montgomery,Alabama
+773,P.J. Hairston,206,102,,1990,,
+774,Gary Harris,193,95,Michigan State University,1994,Fishers,Indiana
+775,Joe Harris,198,99,University of Virginia,1991,Chelan,Washington
+776,Rodney Hood,203,93,Duke University,1992,Meridian,Mississippi
+777,Joe Ingles,203,102,,1987,Happy Valley,Australia
+778,Cory Jefferson,206,98,Baylor University,1990,Tacoma,Washington
+779,Grant Jerrett,208,106,University of Arizona,1993,Costa Mesa,California
+780,Nick Johnson,190,91,University of Arizona,1992,Tempe,Arizona
+781,Tyler Johnson,193,84,"California State University, Fresno",1992,Grand Forks,North Dakota
+782,Sean Kilpatrick,193,95,University of Cincinnati,1990,Yonkers,New York
+783,Alex Kirk,213,111,University of New Mexico,1991,Los Alamos,New Mexico
+784,Joffrey Lauvergne,211,99,,1991,Mulhouse,France
+785,Zach LaVine,196,85,"University of California, Los Angeles",1995,Renton,Washington
+786,Kalin Lucas,185,88,Michigan State University,1989,Sterling Heights,Michigan
+787,Devyn Marble,198,90,University of Iowa,1992,Southfield,Michigan
+788,James Michael,198,90,,1992,,
+789,K.J. McDaniels,198,90,,1992,,
+790,Doug McDermott,203,102,Creighton University,1992,Grand Forks,North Dakota
+791,Mitch McGary,208,115,University of Michigan,1992,Chesterton,Indiana
+792,Jerel McNeal,190,90,Marquette University,1987,Chicago,Illinois
+793,Elijah Millsap,198,102,University of Alabama at Birmingham,1987,Grambling,Louisiana
+794,Nikola Mirotic,208,99,,1991,Podgorica,Montenegro
+795,Eric Moreland,208,107,Oregon State University,1991,Houston,Texas
+796,Shabazz Napier,185,79,University of Connecticut,1991,Roxbury,Massachusetts
+797,Nerlens Noel,211,103,University of Kentucky,1994,Malden,Massachusetts
+798,Lucas Nogueira,213,109,,1992,Sao Goncalo,Brazil
+799,Jusuf Nurkic,213,127,,1994,Tuzla,Bosnia and Herzegovina
+800,Johnny O'Bryant,206,116,Louisiana State University,1993,Cleveland,Mississippi
+801,Kostas Papanikolaou,203,102,,1990,Trikala,Greece
+802,Jabari Parker,203,113,Duke University,1995,Chicago,Illinois
+803,Adreian Payne,208,107,Michigan State University,1991,Dayton,Ohio
+804,Elfrid Payton,193,83,University of Louisiana at Lafayette,1994,Gretna,Louisiana
+805,Dwight Powell,211,108,Stanford University,1991,Toronto,Canada
+806,Julius Randle,206,113,University of Kentucky,1994,Dallas,Texas
+807,Damjan Rudez,208,103,,1986,Zagreb,Croatia
+808,JaKarr Sampson,211,106,University of California,1983,Inglewood,California
+809,Marcus Smart,193,99,Oklahoma State University,1994,Flower Mound,Texas
+810,Russ Smith,183,74,University of Louisville,1991,New York,New York
+811,Nik Stauskas,198,92,University of Michigan,1993,Mississauga,Canada
+812,David Stockton,180,74,Gonzaga University,1991,Spokane,Washington
+813,Jarnell Stokes,206,119,University of Tennessee,1994,Memphis,Tennessee
+814,Noah Vonleh,208,108,Indiana University,1995,Haverhill,Massachusetts
+815,T.J. Warren,208,108,,1995,,
+816,David Wear,208,104,"University of California, Los Angeles",1990,Long Beach,California
+817,Travis Wear,208,104,"University of California, Los Angeles",1990,Long Beach,California
+818,Shayne Whittington,211,113,Western Michigan University,1991,Paw Paw,Michigan
+819,Andrew Wiggins,203,90,University of Kansas,1995,Toronto,Canada
+820,C.J. Wilcox,203,90,,1995,,
+821,James Young,198,97,University of Kentucky,1995,Flint,Michigan
+822,Cliff Alexander,203,111,University of Kansas,1995,Chicago,Illinois
+823,Justin Anderson,198,103,University of Virginia,1993,Montross,Virginia
+824,Thanasis Antetokounmpo,201,92,,1992,Athens,Greece
+825,Keith Appling,185,83,Michigan State University,1992,Detroit,Michigan
+826,Nemanja Bjelica,208,108,,1988,Belgrade,Serbia
+827,Devin Booker,198,93,University of Kentucky,1996,Grand Rapids,Michigan
+828,Anthony Brown,206,111,DePaul University,1981,Chicago,Illinois
+829,Willie Cauley-Stein,213,108,University of Kentucky,1993,Spearville,Kansas
+830,Rakeem Christmas,206,113,Syracuse University,1991,Irvington,New Jersey
+831,Coty Clarke,201,105,University of Arkansas,1992,Antioch,Tennessee
+832,Pat Connaughton,196,93,University of Notre Dame,1993,Arlington,Massachusetts
+833,Branden Dawson,198,102,Michigan State University,1993,Gary,Indiana
+834,Bryce Dejean-Jones,198,94,Iowa State University,1992,Los Angeles,California
+835,Sam Dekker,206,104,University of Wisconsin,1994,Sheboygan,Wisconsin
+836,Duje Dukan,206,99,University of Wisconsin,1991,Split,Croatia
+837,Jarell Eddie,201,98,Virginia Polytechnic Institute and State University,1991,Tampa,Florida
+838,Cristiano Felicio,208,124,,1992,Pouso Alegre,Brazil
+839,Jerian Grant,203,95,Syracuse University,1994,Portland,Oregon
+840,Montrezl Harrell,203,108,University of Louisville,1994,Tarboro,North Carolina
+841,Aaron Harrison,198,95,University of Kentucky,1994,San Antonio,Texas
+842,Mario Hezonja,203,97,,1995,Dubrovnik,Croatia
+843,Darrun Hilliard,198,92,Villanova University,1993,Bethlehem,Pennsylvania
+844,Rondae Hollis-Jefferson,201,99,University of Arizona,1995,Chester,Pennsylvania
+845,Richaun Holmes,208,111,Bowling Green State University,1993,Lockport,Illinois
+846,Marcelo Huertas,190,90,,1983,Sao Paulo,Brazil
+847,Josh Huestis,201,104,Stanford University,1991,Webster,Texas
+848,R.J. Hunter,201,104,,1991,,
+849,Damien Inglis,203,111,,1995,Cayenne,French Guiana
+850,Nikola Jokic,208,113,,1995,Sombor,Serbia
+851,Tyus Jones,188,88,Duke University,1996,Burnsville,Minnesota
+852,Frank Kaminsky,213,109,University of Wisconsin,1993,Winfield,Illinois
+853,Sasha Kaun,211,117,University of Kansas,1985,Tomsk,Russia
+854,Kevon Looney,206,99,"University of California, Los Angeles",1996,Milwaukee,Wisconsin
+855,Trey Lyles,208,106,University of Kentucky,1995,Saskatoon,Canada
+856,Boban Marjanovic,221,131,,1988,Zajecar,Serbia
+857,Jarell Martin,208,108,Louisiana State University,1994,Baton Rouge,Louisiana
+858,T.J. McConnell,208,108,,1994,,
+859,Chris McCullough,211,90,Syracuse University,1995,Bronx,New York
+860,Jordan McRae,198,83,University of Tennessee,1991,Savannah,Georgia
+861,Salah Mejri,216,111,,1986,Jendouba,Tunisia
+862,Jordan Mickey,203,106,Louisiana State University,1994,Dallas,Texas
+863,Luis Montero,201,83,Westchester CC,1993,Santo Domingo,Dominican Republic
+864,Emmanuel Mudiay,196,90,,1996,Kinshasa,Democratic Republic of the Congo
+865,Xavier Munford,196,90,,1996,,
+866,Raul Neto,185,81,,1992,Belo Horizonte,Brazil
+867,J.J. O'Brien,185,81,,1992,,
+868,Jahlil Okafor,211,124,Duke University,1995,Chicago,Illinois
+869,Kelly Oubre,201,92,University of Kansas,1995,New Orleans,Louisiana
+870,Lamar Patterson,196,102,University of Pittsburgh,1991,Lancaster,Pennsylvania
+871,Cameron Payne,190,83,Murray State University,1994,Memphis,Tennessee
+872,Tibor Pleiss,221,116,,1989,Bergisch Gladbach,Germany
+873,Bobby Portis,211,104,University of Arkansas,1995,Little Rock,Arkansas
+874,Kristaps Porzingis,221,108,,1995,Liepaja,Latvia
+875,Norman Powell,193,97,"University of California, Los Angeles",1993,San Diego,California
+876,Josh Richardson,198,90,University of Tennessee,1993,Edmond,Oklahoma
+877,Terry Rozier,188,86,University of Louisville,1994,Youngstown,Ohio
+878,D'Angelo Russell,188,86,,1994,,
+879,Alex Stepheson,208,122,University of Southern California,1987,Los Angeles,California
+880,Walter Tavares,221,117,,1992,Maio,Cape Verde
+881,Axel Toupane,201,89,,1992,Mulhouse,France
+882,Karl-Anthony Towns,213,110,University of Kentucky,1995,Edison,New Jersey
+883,Myles Turner,211,110,University of Texas at Austin,1996,Bedford,Texas
+884,Rashad Vaughn,198,91,"University of Nevada, Las Vegas",1996,Minneapolis,Minnesota
+885,Briante Weber,188,74,Virginia Commonwealth University,1992,Chesapeake,Virginia
+886,Justise Winslow,201,102,Duke University,1996,Houston,Texas
+887,Christian Wood,211,99,"University of Nevada, Las Vegas",1995,Long Beach,California
+888,Delon Wright,196,83,University of Utah,1992,Los Angeles,California
+889,Joe Young,188,81,University of Oregon,1992,Houston,Texas
+890,Alex Abrines,198,86,,1993,Palma de Mallorca,Spain
+891,Ron Baker,193,99,Wichita State University,1993,Hays,Kansas
+892,Wade Baldwin,193,91,Vanderbilt University,1996,Belle Mead,New Jersey
+893,Malik Beasley,196,88,Florida State University,1996,Atlanta,Georgia
+894,DeAndre' Bembry,198,95,Saint Joseph's University,1994,Charlotte,North Carolina
+895,Dragan Bender,216,102,,1997,Capljina,Bosnia and Herzegovina
+896,Ben Bentil,206,106,Providence College,1995,Ghana,
+897,Davis Bertans,208,95,,1992,Valmiera,Latvia
+898,Joel Bolomboy,206,106,Weber State University,1994,Kiev,Ukraine
+899,Malcolm Brogdon,196,97,University of Virginia,1992,Atlanta,Georgia
+900,Jaylen Brown,193,97,University of Missouri,1992,Oakland,California
+901,Nicolas Brussino,201,88,,1993,Santa Fe,Argentina
+902,Marquese Chriss,208,105,University of Washington,1997,Sacramento,California
+903,Semaj Christon,190,86,Xavier University,1992,Cincinnati,Ohio
+904,Quinn Cook,188,83,Duke University,1993,Washington,District of Columbia
+905,Deyonta Davis,211,107,Michigan State University,1996,Muskegon,Michigan
+906,Malcolm Delaney,190,86,Virginia Polytechnic Institute and State University,1989,Baltimore,Maryland
+907,Cheick Diallo,206,99,University of Kansas,1996,Kayes,Mali
+908,Kris Dunn,193,95,Providence College,1994,New London,Connecticut
+909,Henry Ellenson,211,111,Marquette University,1997,Rice Lake,Wisconsin
+910,Joel Embiid,213,113,University of Kansas,1994,Yaounde,Cameroon
+911,Kay Felder,175,79,Oakland University,1995,Detroit,Michigan
+912,Yogi Ferrell,183,81,Indiana University,1993,Indianapolis,Indiana
+913,Dorian Finney-Smith,203,99,University of Florida,1993,Portsmouth,Virginia
+914,Bryn Forbes,190,86,Michigan State University,1993,Lansing,Michigan
+915,Patricio Garino,198,95,George Washington University,1993,Buenos Aires,Argentina
+916,Michael Gbinije,201,90,Syracuse University,1992,Hartford,Connecticut
+917,Marcus Georges-Hunt,196,97,Georgia Institute of Technology,1994,Miami,Florida
+918,Jonathan Gibson,188,83,New Mexico State University,1987,West Covina,California
+919,Treveon Graham,198,99,Virginia Commonwealth University,1993,Washington,District of Columbia
+920,A.J. Hammons,198,99,,1993,,
+921,Andrew Harrison,198,96,University of Kentucky,1994,San Antonio,Texas
+922,Juan Hernangomez,206,104,,1995,Madrid,Spain
+923,Willy Hernangomez,211,108,,1994,Madrid,Spain
+924,Buddy Hield,193,97,University of Oklahoma,1993,Freeport,Bahamas
+925,Danuel House,201,93,Texas A&M University,1993,Houston,Texas
+926,Brandon Ingram,206,86,Duke University,1997,Kinston,North Carolina
+927,Demetrius Jackson,185,91,University of Notre Dame,1994,South Bend,Indiana
+928,Pierre Jackson,178,81,Baylor University,1991,Las Vegas,Nevada
+929,Derrick Jones,203,100,University of Miami,1990,Stone Mountain,Georgia
+930,Mindaugas Kuzminskas,206,97,,1989,Vilnius,Lithuania
+931,Skal Labissiere,211,102,University of Kentucky,1996,Port-Au-Prince,Haiti
+932,Nicolas Laprovittola,193,81,,1990,Buenos Aires,Argentina
+933,Jake Layman,206,95,University of Maryland,1994,Norwood,Massachusetts
+934,Caris LeVert,201,92,University of Michigan,1994,Columbus,Ohio
+935,Shawn Long,206,115,University of Louisiana at Lafayette,1993,Morgan City,Louisiana
+936,Timothe Luwawu-Cabarrot,198,92,,1995,Cannes,France
+937,Thon Maker,216,97,,1997,South Sudan,
+938,Patrick McCaw,201,83,"University of Nevada, Las Vegas",1995,St. Louis,Missouri
+939,Sheldon McClellan,196,90,University of Miami,1992,Houston,Texas
+940,Rodney McGruder,193,92,Kansas State University,1991,Landover,Maryland
+941,Dejounte Murray,196,77,University of Washington,1996,Seattle,Washington
+942,Jamal Murray,193,93,University of Kentucky,1997,Kitchener,Canada
+943,Maurice Ndour,206,90,Ohio University,1992,Sindia,Senegal
+944,Georges Niang,203,104,Iowa State University,1993,Lawrence,Massachusetts
+945,David Nwaba,193,94,"California Polytechnic State University, San Luis Obispo",1993,Los Angeles,California
+946,Daniel Ochefu,211,111,Villanova University,1993,Baltimore,Maryland
+947,Chinanu Onuaku,208,111,University of Louisville,1996,Baltimore,Maryland
+948,Georgios Papagiannis,216,108,,1997,Amarousio,Greece
+949,Marshall Plumlee,211,111,Duke University,1990,Fort Wayne,Indiana
+950,Jakob Poeltl,213,112,University of Utah,1995,Vienna,Austria
+951,Alex Poythress,201,107,University of Kentucky,1993,Savannah,Georgia
+952,Tim Quarterman,198,88,Louisiana State University,1994,Savannah,Georgia
+953,Chasson Randle,188,83,Stanford University,1993,Rock Island,Illinois
+954,Malachi Richardson,198,92,Syracuse University,1996,Trenton,New Jersey
+955,Domantas Sabonis,211,108,Gonzaga University,1996,Portland,Oregon
+956,Dario Saric,208,101,,1994,Sibenik,Croatia
+957,Tomas Satoransky,201,95,,1991,Prague,Czech Republic
+958,Wayne Selden,196,104,University of Kansas,1994,Roxbury,Massachusetts
+959,Pascal Siakam,206,104,New Mexico State University,1994,Douala,Cameroon
+960,Diamond Stone,211,115,University of Maryland,1997,Milwaukee,Wisconsin
+961,Edy Tavares,211,115,,1997,,
+962,Isaiah Taylor,190,77,University of Texas at Austin,1994,Hayward,California
+963,Mike Tobey,213,117,University of Virginia,1994,Monroe,New York
+964,Tyler Ulis,178,68,University of Kentucky,1996,Detroit,Michigan
+965,Jarrod Uthoff,206,100,University of Iowa,1993,Cedar Rapids,Iowa
+966,Denzel Valentine,198,96,Michigan State University,1993,Lansing,Michigan
+967,Fred VanVleet,183,88,Wichita State University,1994,Rockford,Illinois
+968,Taurean Waller-Prince,183,88,,1994,,
+969,Okaro White,203,92,Florida State University,1992,Clearwater,Florida
+970,Isaiah Whitehead,193,96,Seton Hall University,1995,Brooklyn,New York
+971,Kyle Wiltjer,208,108,Gonzaga University,1992,Portland,Oregon
+972,Stephen Zimmerman,213,108,"University of Nevada, Las Vegas",1996,Hendersonville,Tennessee
+973,Paul Zipser,203,97,,1994,Heidelberg,Germany
+974,Ivica Zubac,216,120,,1997,Mostar,Bosnia and Herzegovina
