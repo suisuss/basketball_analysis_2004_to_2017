@@ -37,18 +37,22 @@ How does a players age, height and weight correlate with their performance? Do p
 #### Sean
 	
 **Question:**
-How many players are international? What is the trend for international players? Which cities pay high salaries?
+
+How many players are not from the U.S?
+
+Are there more and more internatinal players joined NBA?
+
+How's their salary?
 
 **Analysis & Visualization Techniques:**
 
-- Divide them into two groups:
-    - a) From U.S, by states
-    - b) overseas.
+-Pie chart to show these proportions
     
-    -Pie chart to show these proportions
-    
-    -Line chart to show the trend throughout 10 yrs
-- gmaps heatmap with salary
+-Line chart to show the trend throughout 10 yrs
+
+-gmaps heatmap with salary
+
+-boxplot for salary
 
 
 #### Resources:
